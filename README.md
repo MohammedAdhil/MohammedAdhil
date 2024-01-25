@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammed Adhil</h1>
 <h3 align="center">Diligent and highly motivated Full Stack developer with a strong passion in programming, learning and acquiring new skills. I’m here to pursue a growth oriented career with a progressive company, that provides scope to apply my knowledge and skills in the field of Web development that would help me to contribute my best to the Organization.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedadhil" alt="mohammedadhil" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
