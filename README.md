@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mohammedadhil.github.io/portfolio/](https://mohammedadhil.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://mohammed-adhil-portfolio.vercel.app/](https://mohammed-adhil-portfolio.vercel.app/)
 
 - 📫 How to reach me **mohdadhil215@gmail.com**
 
